@@ -56,11 +56,11 @@
 
 <br/>
 
-## 🪐 Mission Stats
+## 🪐 Flight Path
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanjagdesh13&theme=nightowl&hide_border=true&background=0d1117&ring=FFD700&fire=FF5252&currStreakLabel=00E5FF"/>
+<img src="./flightpath.svg" width="100%"/>
 
 </div>
 
