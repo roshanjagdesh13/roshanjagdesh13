@@ -1,0 +1,52 @@
+<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="gcbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0821"/>
+      <stop offset="100%" stop-color="#181233"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="260" rx="14" fill="url(#gcbg)" stroke="#302b63" stroke-width="1.5"/>
+
+  <!-- stars -->
+  <g fill="#FFFFFF">
+    <circle cx="1150" cy="30" r="1.4" opacity="0.6"/><circle cx="1100" cy="60" r="1" opacity="0.4"/>
+    <circle cx="60" cy="40" r="1.2" opacity="0.5"/><circle cx="1080" cy="200" r="1.1" opacity="0.5"/>
+    <circle cx="30" cy="220" r="1" opacity="0.4"/>
+  </g>
+
+  <!-- radio tower, left side -->
+  <g transform="translate(150,180)">
+    <line x1="0" y1="0" x2="0" y2="-110" stroke="#8b949e" stroke-width="4"/>
+    <line x1="-8" y1="-20" x2="8" y2="-20" stroke="#8b949e" stroke-width="3"/>
+    <line x1="-16" y1="-50" x2="16" y2="-50" stroke="#8b949e" stroke-width="3"/>
+    <line x1="-24" y1="-80" x2="24" y2="-80" stroke="#8b949e" stroke-width="3"/>
+    <circle cx="0" cy="-110" r="4" fill="#FFD700"/>
+    <!-- broadcast arcs, right side -->
+    <path d="M14,-118 A22,22 0 0 1 14,-102" fill="none" stroke="#00E5FF" stroke-width="2.5" opacity="0.75"/>
+    <path d="M22,-128 A38,38 0 0 1 22,-92" fill="none" stroke="#00E5FF" stroke-width="2.5" opacity="0.5"/>
+    <path d="M30,-138 A54,54 0 0 1 30,-82" fill="none" stroke="#00E5FF" stroke-width="2.5" opacity="0.3"/>
+    <!-- broadcast arcs, left side -->
+    <path d="M-14,-118 A22,22 0 0 0 -14,-102" fill="none" stroke="#00E5FF" stroke-width="2.5" opacity="0.75"/>
+    <path d="M-22,-128 A38,38 0 0 0 -22,-92" fill="none" stroke="#00E5FF" stroke-width="2.5" opacity="0.5"/>
+  </g>
+
+  <text x="260" y="55" font-size="18" font-weight="800" fill="#FFD700" letter-spacing="2">GROUND CONTROL</text>
+  <circle cx="510" cy="49" r="5" fill="#00E676"/>
+  <text x="524" y="54" font-size="13" fill="#00E676" letter-spacing="1">CHANNEL OPEN</text>
+
+  <text x="260" y="90" font-size="15" fill="#00E5FF" font-family="'Consolas','Courier New',monospace" letter-spacing="0.5">CALL SIGN: @roshanjagdesh13 · roshanjagdesh13@gmail.com</text>
+
+  <!-- incoming transmission box -->
+  <rect x="260" y="115" width="720" height="105" rx="8" fill="#0d0a22" stroke="#302b63" stroke-width="1"/>
+  <path d="M268,123 L268,141 M268,123 L286,123" stroke="#00E5FF" stroke-width="2" fill="none"/>
+  <path d="M972,123 L972,141 M972,123 L954,123" stroke="#00E5FF" stroke-width="2" fill="none"/>
+  <path d="M268,212 L268,194 M268,212 L286,212" stroke="#00E5FF" stroke-width="2" fill="none"/>
+  <path d="M972,212 L972,194 M972,212 L954,212" stroke="#00E5FF" stroke-width="2" fill="none"/>
+
+  <text x="282" y="148" font-size="12" fill="#8b949e" letter-spacing="1" font-family="'Consolas','Courier New',monospace">&gt; INCOMING TRANSMISSION_</text>
+  <text x="282" y="178" font-size="17" fill="#FFD700" font-style="italic" font-family="Georgia, serif">"The best way to predict the future</text>
+  <text x="282" y="200" font-size="17" fill="#FFD700" font-style="italic" font-family="Georgia, serif">is to build it."</text>
+
+  <text x="1160" y="245" font-size="11" fill="#4d4a6b" text-anchor="end" letter-spacing="1">TRANSMITTING FROM PESHAWAR, PK</text>
+</svg>
