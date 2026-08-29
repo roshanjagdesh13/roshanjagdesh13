@@ -75,8 +75,6 @@
 
 * 🛰️ **AI-Powered Satellite Anomaly Detection** — exploring AI-based detection of unusual satellite behavior using simulated satellite data.
 * 📱 **Task Manager App** — a Flutter-based mobile application for managing tasks.
-* 💳 **Payment Shield** — exploring detection of fraudulent or duplicated payment screenshots.
-* 🎮 **Game Development** — experimenting with Unity and programming-based interactive projects.
 * 💻 **C/C++ Projects** — developing programming and data-structure based applications.
 
 <br/>
