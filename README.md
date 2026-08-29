@@ -60,12 +60,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshanjagdesh13&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=00E5FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanjagdesh13&theme=nightowl&hide_border=true&background=0d1117&ring=FFD700&fire=FF5252&currStreakLabel=00E5FF" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanjagdesh13&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanjagdesh13&theme=nightowl&hide_border=true&background=0d1117&ring=FFD700&fire=FF5252&currStreakLabel=00E5FF"/>
 
 </div>
 
