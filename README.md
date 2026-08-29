@@ -98,8 +98,15 @@ Computer Science
 
 <div align="center">
 
+<img src="./groundcontrol.svg" width="100%"/>
+
+<br/><br/>
+
 <a href="https://github.com/roshanjagdesh13">
 <img src="https://img.shields.io/badge/GitHub-roshanjagdesh13-0f0c29?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000"/>
+</a>
+<a href="mailto:roshanjagdesh13@gmail.com">
+<img src="https://img.shields.io/badge/Email-roshanjagdesh13%40gmail.com-0f0c29?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000"/>
 </a>
 
 </div>
@@ -109,10 +116,6 @@ Computer Science
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=roshanjagdesh13&label=TRANSMISSIONS%20RECEIVED&color=302b63&style=for-the-badge&labelColor=000000"/>
-
-<br/><br/>
-
-<i>"The best way to predict the future is to build it."</i>
 
 <br/><br/>
 
