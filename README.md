@@ -44,4 +44,8 @@
 <a href="https://github.com/roshanjagdesh13"><img src="https://img.shields.io/badge/GitHub-roshanjagdesh13-060a12?style=for-the-badge&logo=github&logoColor=4de1ff&labelColor=ff6a3d"/></a>
 <a href="mailto:roshanjagdesh13@gmail.com"><img src="https://img.shields.io/badge/Email-roshanjagdesh13%40gmail.com-060a12?style=for-the-badge&logo=gmail&logoColor=4de1ff&labelColor=ff6a3d"/></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=roshanjagdesh13&label=PROFILE%20VIEWS&color=060a12&labelColor=ff6a3d&style=for-the-badge"/>
+
 </div>
