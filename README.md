@@ -33,7 +33,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=roshanjagdesh13&show_icons=true&hide_border=true&bg_color=060a12&title_color=ff6a3d&text_color=e8eefc&icon_color=4de1ff&border_color=1b2433"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanjagdesh13&layout=compact&hide_border=true&bg_color=060a12&title_color=ff6a3d&text_color=e8eefc&icon_color=4de1ff&border_color=1b2433"/>
 
-<img src="https://raw.githubusercontent.com/roshanjagdesh13/roshanjagdesh13/output/snake-dark.svg" width="100%" alt="Contribution snake"/>
+<img src="./assets/snake.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
